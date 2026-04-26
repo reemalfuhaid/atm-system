@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BProjects\\ATMSystem\\ATMSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED57BAB-8453-4385-B419-FAD9E100D0CA}|ATMSystem.vcxproj|D:\\C\u002B\u002BProjects\\ATMSystem\\ATMSystem\\ATMSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0ED57BAB-8453-4385-B419-FAD9E100D0CA}|ATMSystem.vcxproj|solutionrelative:ATMSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMSystem.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BProjects\\ATMSystem\\ATMSystem\\ATMSystem.cpp",
+              "RelativeDocumentMoniker": "ATMSystem.cpp",
+              "ToolTip": "D:\\C\u002B\u002BProjects\\ATMSystem\\ATMSystem\\ATMSystem.cpp",
+              "RelativeToolTip": "ATMSystem.cpp",
+              "ViewState": "AgIAANUBAAAAAAAAAAAmwOgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-26T11:14:36.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

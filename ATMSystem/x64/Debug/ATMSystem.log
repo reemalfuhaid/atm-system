@@ -1,0 +1,4 @@
+﻿  ATMSystem.cpp
+D:\C++Projects\ATMSystem\ATMSystem\ATMSystem.cpp(42,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++Projects\ATMSystem\ATMSystem\ATMSystem.cpp(203,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  ATMSystem.vcxproj -> D:\C++Projects\ATMSystem\ATMSystem\x64\Debug\ATMSystem.exe
